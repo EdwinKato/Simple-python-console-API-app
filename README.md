@@ -1,0 +1,1 @@
+# A simple python console api application that consumes the fixer.io api and prints out the exchange rates.
